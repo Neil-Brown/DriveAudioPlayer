@@ -101,6 +101,11 @@ Drive Audio Player is ideal for:
 
 ---
 
+### Does this app access my entire Google Drive?
+No. The app can only access files inside its own folder.
+
+---
+
 ## Feedback & Support
 
 Drive Audio Player is an independent project.
