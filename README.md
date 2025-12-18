@@ -79,8 +79,7 @@ Watch a short demo showing how to upload music, create playlists, and play songs
 
 👉 [https://driveaudioplayer.com](https://driveaudioplayer.com)
 
-*(Screenshots and GIFs coming soon)*
-
+[![Google Drive music player demo video](images/google-drive-music-player-demo.png)](https://youtu.be/pvxFkeY2ZPs?si=Du9rLCwN_NydlkWj)
 ---
 
 ## Try Drive Audio Player
