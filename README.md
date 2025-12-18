@@ -2,6 +2,8 @@
 
 **Play music from Google Drive. No ads. Full control.**
 
+![Google Drive music player interface](images/google-drive-music-player-interface.png)
+
 Drive Audio Player is a **web-based Google Drive music player** that lets you stream and organize your **own MP3 files directly from Google Drive**. No subscriptions, no ads, and no syncing required.
 
 If you own your music and want a simple, privacy-focused way to listen to it online, Drive Audio Player is built for you.
