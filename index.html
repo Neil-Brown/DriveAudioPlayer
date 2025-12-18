@@ -7,10 +7,7 @@
   <title>Drive Audio Player – Google Drive Music Player (No Ads)</title>
 
   <meta name="description" content="Drive Audio Player is a Google Drive music player that lets you play your own MP3 files online. No ads, no subscriptions, full control of your music." />
-
-  <!-- Google Search Console verification -->
   <meta name="google-site-verification" content="wX2vFir83oiun9clqr5UzWy243_Gb2KTx3uUUAfhiMs" />
-
   <!-- Open Graph / Social Preview -->
   <meta property="og:title" content="Drive Audio Player – Google Drive Music Player" />
   <meta property="og:description" content="Play music from Google Drive. No ads. Full control." />
@@ -21,133 +18,158 @@
   <style>
     body {
       font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      line-height: 1.6;
+      background: #fafafa;
+      color: #222;
       margin: 0;
       padding: 0;
-      color: #111;
-      background: #fff;
+      line-height: 1.6;
     }
-    main {
+
+    .container {
       max-width: 900px;
       margin: 0 auto;
-      padding: 2rem 1.25rem 4rem;
+      padding: 40px 20px 70px;
     }
-    h1, h2, h3 {
-      line-height: 1.25;
-    }
+
     h1 {
-      font-size: 2.2rem;
-      margin-bottom: 0.5rem;
+      text-align: center;
+      font-size: 2.4rem;
+      margin-bottom: 12px;
     }
-    h2 {
-      margin-top: 2.5rem;
+
+    .tagline {
+      text-align: center;
+      font-size: 1.25rem;
+      margin-bottom: 36px;
     }
-    p.lead {
-      font-size: 1.1rem;
-    }
+
     img {
+      display: block;
+      margin: 32px auto;
       max-width: 100%;
       height: auto;
-      border-radius: 6px;
+      border-radius: 8px;
     }
+
+    h2 {
+      margin-top: 48px;
+      font-size: 1.6rem;
+    }
+
+    ul {
+      padding-left: 20px;
+    }
+
+    li {
+      margin-bottom: 8px;
+    }
+
     .cta {
+      text-align: center;
+      margin: 50px 0;
+    }
+
+    .cta a {
       display: inline-block;
-      margin: 1rem 0;
-      padding: 0.75rem 1.25rem;
-      background: #000;
+      padding: 14px 26px;
+      background: #2563eb;
       color: #fff;
       text-decoration: none;
-      border-radius: 6px;
+      border-radius: 8px;
+      font-size: 1.1rem;
       font-weight: 600;
     }
-    ul {
-      padding-left: 1.2rem;
+
+    .cta a:hover {
+      background: #1e4ed8;
     }
+
     footer {
-      margin-top: 4rem;
+      margin-top: 70px;
       font-size: 0.9rem;
-      color: #555;
+      color: #666;
+      text-align: center;
     }
   </style>
 </head>
+
 <body>
+  <div class="container">
 
-<main>
-  <h1>Drive Audio Player – Google Drive Music Player</h1>
+    <h1>Drive Audio Player</h1>
+    <p class="tagline"><strong>Play music from Google Drive. No ads. Full control.</strong></p>
 
-  <p class="lead"><strong>Play music from Google Drive. No ads. Full control.</strong></p>
-
-  <p>
-    Drive Audio Player is a <strong>web-based Google Drive music player</strong> that lets you
-    stream and organize your own MP3 files directly from Google Drive.
-    There are no ads, no subscriptions, and no algorithms deciding what you hear.
-  </p>
-
-  <img src="images/google-drive-music-player-interface.png" alt="Google Drive music player interface" />
-
-  <h2>Why Use Drive Audio Player?</h2>
-  <p>
-    Many people search for a Google Drive audio player because streaming apps interrupt
-    listening with ads and make it difficult to manage personal music libraries.
-    Drive Audio Player turns Google Drive into a simple, private online music player.
-  </p>
-
-  <ul>
-    <li>No ads or tracking</li>
-    <li>No subscriptions</li>
-    <li>Your music stays in your Google Drive</li>
-    <li>Fast, clean, browser-based playback</li>
-  </ul>
-
-  <h2>Key Features</h2>
-  <ul>
-    <li>Play MP3 files directly from Google Drive</li>
-    <li>Sort songs by artist or title</li>
-    <li>Create and manage custom playlists</li>
-    <li>Automatic playback when playlists change</li>
-    <li>Works on desktop and mobile browsers</li>
-  </ul>
-
-  <h2>Privacy & Google Drive Permissions</h2>
-  <p>
-    Drive Audio Player uses a <strong>folder-restricted access model</strong>.
-    The app creates a single folder in your Google Drive and can only access
-    files inside that folder. It cannot see or scan the rest of your Drive.
-  </p>
-
-  <h2>Demo Video</h2>
-  <p>
-    Watch a short demo showing how to upload music, create playlists, and play songs
-    from Google Drive.
-  </p>
-
-  <p>
-    <a href="https://youtu.be/pvxFkeY2ZPs">Watch the demo on YouTube</a>
-  </p>
-
-  <h2>Try Drive Audio Player</h2>
-  <p>
-    Start listening to your music without ads or interruptions.
-  </p>
-
-  <p>
-    <a class="cta" href="https://driveaudioplayer.com">Try Drive Audio Player</a>
-  </p>
-
-  <h2>Who Is This For?</h2>
-  <ul>
-    <li>People with MP3 collections stored in Google Drive</li>
-    <li>Musicians managing reference tracks</li>
-    <li>Language learners using audio files</li>
-    <li>Anyone who wants a private Google Drive music player</li>
-  </ul>
-
-  <footer>
     <p>
-      © Drive Audio Player · An independent project
+      Drive Audio Player is a <strong>web-based Google Drive music player</strong> that lets you
+      play and organize your own MP3 files directly from Google Drive.
+      There are no ads, no subscriptions, and no algorithms deciding what you hear.
     </p>
-  </footer>
-</main>
 
+    <img
+      src="images/google-drive-music-player-interface.png"
+      alt="Google Drive music player interface"
+    />
+
+    <h2>Why Use Drive Audio Player?</h2>
+    <p>
+      Many people search for a Google Drive audio player because streaming apps interrupt
+      listening with ads and make it difficult to manage personal music libraries.
+      Drive Audio Player turns Google Drive into a simple, private online music player.
+    </p>
+
+    <ul>
+      <li>No ads or tracking</li>
+      <li>No subscriptions</li>
+      <li>Your music stays in your Google Drive</li>
+      <li>Fast, clean, browser-based playback</li>
+    </ul>
+
+    <h2>Key Features</h2>
+    <ul>
+      <li>Play MP3 files directly from Google Drive</li>
+      <li>Sort songs by artist or title</li>
+      <li>Create and manage custom playlists</li>
+      <li>Automatic playback when playlists change</li>
+      <li>Works on desktop and mobile browsers</li>
+    </ul>
+
+    <h2>Privacy & Google Drive Permissions</h2>
+    <p>
+      Drive Audio Player uses a <strong>folder-restricted access model</strong>.
+      The app creates a single folder in your Google Drive and can only access
+      files inside that folder. It cannot see or scan the rest of your Drive.
+    </p>
+
+    <h2>Demo Video</h2>
+    <p>
+      Watch a short demo showing how to upload music, create playlists,
+      and play songs from Google Drive.
+    </p>
+
+    <p>
+      <a href="https://youtu.be/pvxFkeY2ZPs" target="_blank" rel="noopener">
+        ▶ Watch the demo on YouTube
+      </a>
+    </p>
+
+    <div class="cta">
+      <a href="https://driveaudioplayer.com">
+        Try Drive Audio Player
+      </a>
+    </div>
+
+    <h2>Who Is This For?</h2>
+    <ul>
+      <li>People with MP3 collections stored in Google Drive</li>
+      <li>Musicians managing reference tracks</li>
+      <li>Language learners using audio files</li>
+      <li>Anyone who wants a private Google Drive music player</li>
+    </ul>
+
+    <footer>
+      © Drive Audio Player · An independent project
+    </footer>
+
+  </div>
 </body>
 </html>
