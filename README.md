@@ -1,89 +1,110 @@
-# Drive Audio Player
+# Drive Audio Player – Google Drive Music Player
 
-**Your music. No ads. Full control.**
+**Play music from Google Drive. No ads. Full control.**
 
-Drive Audio Player is a simple web-based music player that lets you play **your own MP3 files directly from Google Drive** — without subscriptions, syncing, or interruptions.
+Drive Audio Player is a **web-based Google Drive music player** that lets you stream and organize your **own MP3 files directly from Google Drive**. No subscriptions, no ads, and no syncing required.
 
-If you own your music, this app is for you.
+If you own your music and want a simple, privacy-focused way to listen to it online, Drive Audio Player is built for you.
 
 ---
 
-## Why Drive Audio Player?
+## Google Drive Music Player (What It Does)
 
-Streaming apps are great for discovery, but frustrating when:
+Drive Audio Player allows you to:
 
-* Ads interrupt your listening
-* Algorithms decide what you hear
-* Your own music library is hard to manage
+* Play MP3 files stored in Google Drive
+* Stream music directly in your browser
+* Organize songs by artist or title
+* Create custom playlists from your Drive files
 
-Drive Audio Player gives you a clean, focused way to listen to **music you already own**.
+Unlike streaming services, this app plays **your personal music library**, not licensed catalogs.
+
+---
+
+## Why Use Drive Audio Player Instead of Streaming Apps?
+
+Many people search for a *Google Drive audio player* because:
+
+* Streaming apps interrupt music with ads
+* You cannot upload or manage your own MP3 collection easily
+* Algorithms control what plays next
+* Offline collections feel scattered
+
+Drive Audio Player solves this by turning Google Drive into a **personal online music player**.
 
 ---
 
 ## Key Features
 
-* 🎵 Play MP3 files directly from Google Drive
-* 🚫 No ads, no tracking, no subscriptions
-* 📂 Privacy-first folder-based access
-* 🔠 Sort songs by title or artist
+* 🎵 Google Drive MP3 player (browser-based)
+* 🚫 No ads, tracking, or subscriptions
+* 📂 Folder-restricted Google Drive access
+* 🔠 Sort music by title or artist
 * 🎼 Create and manage custom playlists
 * 🔀 Automatic playback when playlists change
 
 ---
 
-## Privacy & Security (Important)
+## Privacy & Google Drive Permissions
 
-Drive Audio Player is designed with **minimal access** in mind.
+Privacy is a core feature.
 
-* The app creates a single folder in your Google Drive
-* It can **only access files inside that folder**
-* It cannot see, scan, or modify the rest of your Drive
+Drive Audio Player:
 
-This keeps your data private and under your control.
+* Creates a single folder in your Google Drive
+* Can **only access files inside that folder**
+* Cannot see, scan, or modify the rest of your Drive
+
+This limited access model keeps your Google account secure while allowing music playback.
 
 ---
 
-## How It Works (Quick Overview)
+## How to Play Music from Google Drive
 
 1. Sign in with your Google account
-2. A folder called **Drive Audio Player** is created in Google Drive
-3. Upload MP3 files using the app
-4. Listen, sort, and build playlists instantly
+2. Allow access to the app’s dedicated Drive folder
+3. Upload MP3 files using the built-in uploader
+4. Stream your music instantly in the browser
+5. Create playlists and sort your library
+
+No downloads or installs required.
 
 ---
 
-## Demo
+## Demo: Google Drive Music Player in Action
 
-📺 Watch the short demo video to see how it works:
+Watch a short demo showing how to upload music, create playlists, and play songs from Google Drive.
 
 👉 [https://driveaudioplayer.com](https://driveaudioplayer.com)
 
-*(Screenshots / GIF coming soon)*
+*(Screenshots and GIFs coming soon)*
 
 ---
 
-## Try It
+## Try Drive Audio Player
 
 👉 **[https://driveaudioplayer.com](https://driveaudioplayer.com)**
 
-No install. No ads. Just your music.
+A simple Google Drive music player for people who own their music.
 
 ---
 
 ## Who Is This For?
 
-* People who own MP3 collections
-* Musicians and music teachers
+Drive Audio Player is ideal for:
+
+* People with MP3 collections stored in Google Drive
+* Musicians managing reference tracks
 * Language learners using audio files
-* Anyone tired of ads and algorithms
+* Anyone searching for a private Google Drive audio player
 
 ---
 
-## Feedback
+## Feedback & Support
 
-This is an independent project and still evolving.
+Drive Audio Player is an independent project.
 
-Feedback, suggestions, and bug reports are welcome.
+Feedback, feature requests, and bug reports are welcome.
 
 ---
 
